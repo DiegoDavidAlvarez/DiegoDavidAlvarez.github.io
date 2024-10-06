@@ -43,6 +43,6 @@ textarea{
 #submit:hover{
 	background-color: #333333;
 }
-input[type="radio"]{
+label {
 	color: white;
 }
